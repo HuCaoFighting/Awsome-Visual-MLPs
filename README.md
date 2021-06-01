@@ -26,7 +26,7 @@ Collecting some MLPs with Computer-Vision (CV) papers.  If you find some ignored
 - Can Attention Enable MLPs To Catch Up With CNNs? [[paper](https://arxiv.org/abs/2105.15078)]
 - **[ResMLP]** ResMLP: Feedforward networks for image classification with data-efficient training [[paper](https://arxiv.org/abs/2105.03404)] 
 - Pay Attention to MLPs [[paper](https://arxiv.org/abs/2105.08050)]
-- Do You Even Need Attention? A Stack of Feed-Forward Layers Does SurprisinglyWell on ImageNet [[paper](https://arxiv.org/abs/2105.02723#:~:text=A%20Stack%20of%20Feed%2DForward%20Layers%20Does%20Surprisingly%20Well%20on%20ImageNet,-Luke%20Melas%2DKyriazi&text=The%20strong%20performance%20of%20vision,their%20multi%2Dhead%20attention%20layers.)] 
+- Do You Even Need Attention? A Stack of Feed-Forward Layers Does SurprisinglyWell on ImageNet [[paper](https://arxiv.org/abs/2105.02723#:~:text=A%20Stack%20of%20Feed%2DForward%20Layers%20Does%20Surprisingly%20Well%20on%20ImageNet,-Luke%20Melas%2DKyriazi&text=The%20strong%20performance%20of%20vision,their%20multi%2Dhead%20attention%20layers.)]  [[code](https://github.com/lukemelas/do-you-even-need-attention?utm_source=catalyzex.com)] 
 - **[RepMLP]** RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition [[paper](https://arxiv.org/abs/2105.01883)] [[code](https://github.com/DingXiaoH/RepMLP?utm_source=catalyzex.com)]
 - Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks [[paper](https://arxiv.org/abs/2105.02358)] 
 - **[MLP-Mixer]** MLP-Mixer: An all-MLP Architecture for Vision [[paper](https://arxiv.org/abs/2105.01601)] 
