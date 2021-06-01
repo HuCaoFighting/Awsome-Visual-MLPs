@@ -1,5 +1,5 @@
-# Awsome-Visual-MLPs
-Collect some MLPs with Computer-Vision (CV) papers.  If you find some ignored papers, please open issues or pull requests.
+# Awsome-Vision-MLPs
+Collecting some MLPs with Computer-Vision (CV) papers.  If you find some ignored papers, please open issues or pull requests.
 
 
 ## Papers
@@ -8,10 +8,12 @@ Collect some MLPs with Computer-Vision (CV) papers.  If you find some ignored pa
 
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762) (NIPS 2017)
 
+- [Attention is not all you need: pure attention loses rank doubly exponentially with depth](https://arxiv.org/abs/2103.03404)
+
 ### Technical blog
 
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
-- [Chinese Blog] Vision Transformer 超详细解读 (原理分析+代码解读) [[Link](https://zhuanlan.zhihu.com/p/348593638)]
+- [Chinese Blog] Vision Transformer , Vision MLP超详细解读 (原理分析+代码解读) (目录) [[Link](https://zhuanlan.zhihu.com/p/34859363)]
 
 ### Survey
   - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.02.22
