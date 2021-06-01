@@ -13,7 +13,7 @@ Collecting some MLPs with Computer-Vision (CV) papers.  If you find some ignored
 ### Technical blog
 
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
-- [Chinese Blog] Vision Transformer , Vision MLP超详细解读 (原理分析+代码解读) (目录) [[Link](https://zhuanlan.zhihu.com/p/34859363)]
+- [Chinese Blog] Vision Transformer , Vision MLP超详细解读 (原理分析+代码解读) (目录) [[Link](https://zhuanlan.zhihu.com/p/348593638)]
 
 ### Survey
   - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.02.22
