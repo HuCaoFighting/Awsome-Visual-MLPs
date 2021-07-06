@@ -20,6 +20,8 @@ Collecting some MLPs with Computer-Vision (CV) papers.  If you find some ignored
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- Global Filter Networks for Image Classification [[paper]](https://arxiv.org/abs/2107.00645) [[code](https://github.com/raoyongming/GFNet)]
+- What Makes for Hierarchical Vision Transformer? [[paper]](https://arxiv.org/abs/2107.02174).
 - Rethinking Token-Mixing MLP for MLP-based Vision Backbone [[paper]](https://arxiv.org/abs/2106.14882).
 - **[Vision Permutator]** Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition [[paper]](https://arxiv.org/abs/2106.12368) [[code](https://github.com/Andrew-Qibin/VisionPermutator)]
 - **[S2-MLP]** S2-MLP: Spatial-Shift MLP Architecture for Vision [[paper](https://arxiv.org/abs/2106.07477)] 
