@@ -20,6 +20,8 @@ Collecting some MLPs with Computer-Vision (CV) papers.  If you find some ignored
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- CycleMLP: A MLP-like Architecture for Dense Prediction [[paper]](https://arxiv.org/abs/2107.10224) [[code](https://github.com/ShoufaChen/CycleMLP)]
+- AS-MLP: AN AXIAL SHIFTED MLP ARCHITECTURE FOR VISION [[paper]](https://arxiv.org/abs/2107.08391) [[code](https://github.com/svip-lab/AS-MLP)]
 - Global Filter Networks for Image Classification [[paper]](https://arxiv.org/abs/2107.00645) [[code](https://github.com/raoyongming/GFNet)]
 - What Makes for Hierarchical Vision Transformer? [[paper]](https://arxiv.org/abs/2107.02174).
 - Rethinking Token-Mixing MLP for MLP-based Vision Backbone [[paper]](https://arxiv.org/abs/2106.14882).
