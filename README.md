@@ -20,6 +20,7 @@ Collecting some MLPs with Computer-Vision (CV) papers.  If you find some ignored
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- Hire-MLP: Vision MLP via Hierarchical Rearrangement[[paper]](https://arxiv.org/abs/2108.13341)
 - RaftMLP: Do MLP-based Models Dream of Winning Over Computer Vision? [[paper]](https://arxiv.org/abs/2108.04384)
 - S2-MLPv2: Improved Spatial-Shift MLP Architecture for Vision [[paper]](https://arxiv.org/abs/2108.01072)
 - CycleMLP: A MLP-like Architecture for Dense Prediction [[paper]](https://arxiv.org/abs/2107.10224) [[code](https://github.com/ShoufaChen/CycleMLP)]
