@@ -20,6 +20,9 @@ Collecting some MLPs with Computer-Vision (CV) papers.  If you find some ignored
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?[[paper]](https://arxiv.org/abs/2109.05422)
+- ConvMLP: Hierarchical Convolutional MLPs for Vision [[paper]](https://arxiv.org/abs/2109.04454) [[code](https://github.com/SHI-Labs/Convolutional-MLPs)]
+- Sparse-MLP: A Fully-MLP Architecture with Conditional Computation[[paper]](https://arxiv.org/abs/2109.02008)
 - Hire-MLP: Vision MLP via Hierarchical Rearrangement[[paper]](https://arxiv.org/abs/2108.13341)
 - RaftMLP: Do MLP-based Models Dream of Winning Over Computer Vision? [[paper]](https://arxiv.org/abs/2108.04384)
 - S2-MLPv2: Improved Spatial-Shift MLP Architecture for Vision [[paper]](https://arxiv.org/abs/2108.01072)
