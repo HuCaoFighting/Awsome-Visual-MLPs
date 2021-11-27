@@ -20,6 +20,9 @@ Collecting some MLPs with Computer-Vision (CV) papers.  If you find some ignored
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- Are we ready for a new paradigm shift? A Survey on Visual Deep MLP[[paper]](https://arxiv.org/abs/2111.04060)
+- An Image Patch is a Wave: Phase-Aware Vision MLP[[paper]](https://arxiv.org/abs/2111.12294)
+- MorphMLP: A Self-Attention Free, MLP-Like Backbone for Image and Video[[paper]](https://arxiv.org/abs/2111.12527)
 - Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?[[paper]](https://arxiv.org/abs/2109.05422)
 - ConvMLP: Hierarchical Convolutional MLPs for Vision [[paper]](https://arxiv.org/abs/2109.04454) [[code](https://github.com/SHI-Labs/Convolutional-MLPs)]
 - Sparse-MLP: A Fully-MLP Architecture with Conditional Computation[[paper]](https://arxiv.org/abs/2109.02008)
