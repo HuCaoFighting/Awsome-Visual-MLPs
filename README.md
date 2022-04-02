@@ -41,8 +41,6 @@ Collecting some MLPs with Computer-Vision (CV) papers.  If you find some ignored
 - **[Container]** Container: Context Aggregation Network [[paper](https://arxiv.org/abs/2106.01401)] 
 - Can Attention Enable MLPs To Catch Up With CNNs? [[paper](https://arxiv.org/abs/2105.15078)] 
 - **[MixerGAN]** MixerGAN: An MLP-Based Architecture for Unpaired Image-to-Image Translation [[paper](https://arxiv.org/abs/2105.14110)] 
-- **[SegFormer]** SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers [paper](https://arxiv.org/abs/2105.15203) [[code](https://github.com/NVlabs/SegFormer)]
-- Transformer-Based Deep Image Matching for Generalizable Person Re-identification [[paper](https://arxiv.org/abs/2105.14432)]
 - Less is More: Pay Less Attention in Vision Transformers [[paper](https://arxiv.org/abs/2105.14217)] 
 - Can Attention Enable MLPs To Catch Up With CNNs? [[paper](https://arxiv.org/abs/2105.15078)]
 - **[ResMLP]** ResMLP: Feedforward networks for image classification with data-efficient training [[paper](https://arxiv.org/abs/2105.03404)] 
